@@ -1,0 +1,27 @@
+* {
+  background: black;
+}
+
+img {
+  width: 1700px;
+  height: 400px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: black;
+}
+
+
+.lista {
+
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.ingrediente
+{
+text-align: center;
+justify-content: center;
+
+}
